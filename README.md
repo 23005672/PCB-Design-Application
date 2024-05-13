@@ -1,6 +1,6 @@
 # PCB-Design-Application
 # Aim
-
+To design a fire alarm circuit in PCB-design-application.
 
 # Software required
 Eagle
